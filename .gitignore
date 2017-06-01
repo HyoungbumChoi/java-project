@@ -1,4 +1,7 @@
 java-project/bin/
+djangoProject/myvenv/
+djangoProject/db.sqlte3
+djangoProject/manage.py
 
 # Created by https://www.gitignore.io/api/java,eclipse,windows
 
